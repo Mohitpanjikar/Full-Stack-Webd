@@ -58,6 +58,7 @@ for(var i=0;i<arr9.length;i++){
 };
 
 // printing the element of array using " for each " Method -
+//array -
 function print(element){
     console.log(element);
 };
